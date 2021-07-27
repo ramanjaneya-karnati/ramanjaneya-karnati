@@ -47,3 +47,6 @@ Here are some ideas to get you started:
 </details>
 
 <br/>
+<Br>
+<h1>Thank You! 🤵 </h1>
+<Br>
