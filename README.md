@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Candida18"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ramanjaneya-karnati&custom_title=Ramanjaneya%20Karnati's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/ramanjaneya-karnati"><img alt="Ramanjaneya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ramanjaneya-karnati&custom_title=Ramanjaneya%20Karnati's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
