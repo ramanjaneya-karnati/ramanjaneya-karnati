@@ -34,13 +34,13 @@
 
 ## 📊 GitHub Stats
 
-![Ramanjaneya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramanjaneya&show_icons=true&theme=tokyonight&count_private=true)
+![Ramanjaneya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramanjaneya-karnati&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramanjaneya&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramanjaneya-karnati&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ramanjaneya)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ramanjaneya-karnati)
 - ✨ [Portfolio](https://your-portfolio-link.com)
