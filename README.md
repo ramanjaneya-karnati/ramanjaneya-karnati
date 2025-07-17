@@ -1,50 +1,46 @@
-# Hola I'm Ramanjaneya <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-
-<!--
-**ramanjaneya-karnati/ramanjaneya-karnati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h3>Where to find me</h3>
-<p><a href="https://github.com/ramanjaneya-karnati" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/ramswdev" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ramanjaneya-karnati" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://ramanjaneya.dev/blog" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
-<br/>
-
-### 📊 Github Stats (Expand to View) 
 
 
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ramanjaneya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ramanjaneya-karnati&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramanjaneya-karnati&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Ramanjaneya Karnati" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
 
+# 👋 Hi there, I'm Ramanjaneya K
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/ramanjaneya-karnati"><img alt="Ramanjaneya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ramanjaneya-karnati&custom_title=Ramanjaneya%20Karnati's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+🚀 Full Stack Engineer with 10+ years of experience building scalable web applications using React, Angular, Node.js, and modern JavaScript ecosystems. Passionate about performance, clean architecture, and user-focused design.
 
-</details>
+---
 
-<br/>
-<Br>
-<h1>Thank You! 🤵 </h1>
-<Br>
+## 🛠️ Tech Stack & Tools
+
+### 💻 Frontend
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+
+### 🧠 Backend & API
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+
+### 🧪 Testing & CI
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest)
+![Jasmine](https://img.shields.io/badge/-Jasmine-8A4182?style=flat-square&logo=jasmine)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins)
+
+### ☁️ DevOps & Tools
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
+![GitHub Copilot](https://img.shields.io/badge/-Copilot-222222?style=flat-square&logo=github)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook)
+
+---
+
+## 📊 GitHub Stats
+
+![Ramanjaneya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramanjaneya&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramanjaneya&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ramanjaneya)
+- ✨ [Portfolio](https://your-portfolio-link.com)
