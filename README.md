@@ -4,6 +4,7 @@
 <p align="center">
   <a href="https://ramanjaneya.dev"><img src="https://img.shields.io/badge/Portfolio-ramanjaneya.dev-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/ramanjaneya-karnati"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://medium.com/@karnati.anjaneya"><img src="https://img.shields.io/badge/Medium-Blog-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
   <img src="https://komarev.com/ghpvc/?username=ramanjaneya-karnati&style=for-the-badge&color=7C3AED&label=Profile+views" alt="Profile views">
 </p>
 
@@ -11,7 +12,7 @@
 
 ### 🤖 About me
 
-I'm a full stack engineer with **10+ years** of shipping production web apps, now focused on **Agentic AI**: LLM-powered agents that plan, call tools, and take action to get real work done, not just chat.
+I'm a full stack engineer with **13+ years** of shipping production web apps, now focused on **Agentic AI**: LLM-powered agents that plan, call tools, and take action to get real work done, not just chat.
 
 My edge is the bridge between the two worlds. I bring a decade of building scalable, well-tested products to a space full of demos, and turn agent ideas into reliable software that people actually use.
 
